@@ -12,3 +12,6 @@ We are still trying to understand just how COVID-19 affects the body. Recently, 
  
 4. Possibly compile a list of treatments available for that disease match as novel approaches to treating COVID-19.
 
+# References:
+
+[1] Desai, N. et al. (2020). 	Spectrum of Viral Load and Host Response Seen in Autopsies of SARS-CoV-2 Infected Lungs. Retrieved on May 14, 2020 from https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE150316
