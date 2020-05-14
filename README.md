@@ -6,7 +6,7 @@ We are still trying to understand just how COVID-19 affects the body. Recently, 
 
 1. Find gene expression data for SARS-Cov-2 and a variety of diseases.
 
-2. Compare SARS-Cov-2 expression data to expression data of each disease.
+2. Compare SARS-Cov-2 expression data to expression data of each disease using hierarchal clustering.
 
 3. See if expression patterns match any major disease.
  
