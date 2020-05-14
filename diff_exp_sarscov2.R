@@ -1,3 +1,11 @@
+####################################################################################################################
+# take RNA-seq data from:
+# Desai, N. et al. (2020). 	Spectrum of Viral Load and Host Response Seen in Autopsies of SARS-CoV-2 Infected Lungs.
+# Retrieved on May 14, 2020 from https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE150316
+# find differentially expressed genes in COVID-19 patients
+# make a heatmap of significant differentially expressed genes
+####################################################################################################################
+
 library(DESeq2)
 library(limma)
 library(gplots)
